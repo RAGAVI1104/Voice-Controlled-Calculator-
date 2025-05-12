@@ -1,0 +1,12 @@
+Voice-Controlled Calculator 
+A desktop application where the user can speak math operations like
+"add 45 and 90" or "what is 20 times 3" and the app responds with the correct answer — all using pure Java + Speech APIs.
+
+✅ Features:
+Voice input using microphone
+
+Parse natural language commands (e.g., "plus", "times", "divided by")
+
+Speak back the result using text-to-speech
+
+Basic GUI interface (optional)
